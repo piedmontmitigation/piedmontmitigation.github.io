@@ -1,0 +1,55 @@
+.space {
+  padding: 20px;
+}
+.material-icons-promo {
+  color: #195086;
+}
+.email {
+  padding-right: 4px;
+}
+.border {
+  display: block;
+  width: 80px;
+  height: 2px;
+  background: #060606;
+  margin: 0 auto;
+}
+.orange.custom-1 {
+  background-color: #f58220 !important;
+}
+.blue.custom-1 {
+  background-color: #195086 !important;
+}
+.section-header {
+  font-size: 1.85rem;
+  line-height: 110%;
+  margin: 1.14rem 0 0.912rem 0;
+}
+.section-text {
+  font-size: 1.34rem;
+  line-height: 120%;
+  margin: 1rem 0 0 1rem 0;
+}
+
+#toast-container {
+    position: fixed !important;
+    bottom: 0px !important;
+    left: 0px !important;
+}
+
+.nobutton {
+    visibility: hidden;
+}
+
+.brand-logo {
+  margin-left: 10px
+  padding: 10px;
+}
+.modal {
+  max-width: 45%; !important
+}
+
+
+.parallax-container {
+  height: 200px; !important
+}
